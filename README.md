@@ -1,2 +1,2 @@
-# E-Commerce-Website
-I have created my  first E-commerce  fully responsive website using HTML,CSS,Javascript.
+#My First Website: E-Commerce-Website
+I have created  E-commerce website using HTML,CSS,Javascript and made it fully responsive using css @mediaquerry.
